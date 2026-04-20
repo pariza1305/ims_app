@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">IMS</string>
+    <string name="common_back">Back</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_clear">Clear</string>
+    <string name="common_navigate">Navigate</string>
+    <string name="common_roll_with_value">Roll: %1$s</string>
+
+    <string name="role_admin">ADMIN</string>
+    <string name="role_teacher">TEACHER</string>
+    <string name="role_student">STUDENT</string>
+    <string name="role_parent">PARENT</string>
+
+    <string name="login_title">IMS Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_demo_role">Demo Role</string>
+    <string name="login_button">Login</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_default_placeholder">Search students, exams, subjects...</string>
+    <string name="search_feature_placeholder">Search and navigate to any system feature...</string>
+    <string name="search_tap_to_navigate">Tap to navigate</string>
+    <string name="search_no_features_found">No features found</string>
+    <string name="search_try_different_keyword">Try a different keyword</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_edit">Edit</string>
+    <string name="profile_default_avatar_initial">U</string>
+    <string name="profile_default_user">User</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_full_name">Full Name</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_phone">Phone</string>
+    <string name="profile_department">Department</string>
+    <string name="profile_role">Role</string>
+    <string name="profile_not_set">Not set</string>
+    <string name="profile_save_changes">Save Changes</string>
+
+    <string name="dashboard_demo_role_switch">Demo Role Switch</string>
+    <string name="dashboard_role_switch_drawer">Role Switch Drawer</string>
+    <string name="dashboard_good_morning">Good Morning,</string>
+    <string name="dashboard_hi_with_name">Hi, %1$s 👋</string>
+    <string name="dashboard_role_with_value">Role: %1$s</string>
+    <string name="dashboard_quick_stats">Quick Stats</string>
+    <string name="dashboard_total_students">Total Students</string>
+    <string name="dashboard_across_all_batches">Across all batches</string>
+    <string name="dashboard_attendance">Attendance</string>
+    <string name="dashboard_todays_average">Today\'s average</string>
+    <string name="dashboard_courses_batches">Courses\nBatches</string>
+    <string name="dashboard_my_academy">My\nAcademy</string>
+    <string name="dashboard_admission_forms">Admission\nForms</string>
+    <string name="dashboard_sms_alerts">SMS\nAlerts</string>
+    <string name="dashboard_student_categories">Student\nCategories</string>
+    <string name="dashboard_graduation_facilities">Graduation\nFacilities</string>
+    <string name="dashboard_pending_exams">Pending Exams</string>
+    <string name="dashboard_upcoming">Upcoming</string>
+    <string name="dashboard_batches">Batches</string>
+    <string name="dashboard_active_batches">Active batches</string>
+    <string name="dashboard_quick_actions">Quick Actions</string>
+    <string name="dashboard_mark_attendance">Mark\nAttendance</string>
+    <string name="dashboard_my_attendance">My\nAttendance</string>
+    <string name="dashboard_create_exam">Create\nExam</string>
+    <string name="dashboard_view_results">View\nResults</string>
+    <string name="dashboard_recent_exams">Recent Exams</string>
+    <string name="dashboard_view_all">View All</string>
+    <string name="dashboard_subject_id_with_value">Subject ID: %1$d</string>
+    <string name="dashboard_latest_news">Latest News</string>
+
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_attendance">Attendance</string>
+    <string name="bottom_nav_exams">Exams</string>
+    <string name="bottom_nav_profile">Profile</string>
+
+    <string name="placeholder_feature_stub">Feature Stub</string>
+    <string name="placeholder_feature_stub_message">This is intentionally included as a dashboard-visible module placeholder and can be expanded with full flows later.</string>
+    <string name="placeholder_title_manage_courses">Manage Courses, Batches, Subjects</string>
+    <string name="placeholder_desc_manage_courses">Manage courses, configure batches, maintain subjects including electives, and batch transfer flow.</string>
+    <string name="placeholder_title_admission_forms">Customizable Admission Forms</string>
+    <string name="placeholder_desc_admission_forms">Configure admission forms with dynamic fields to fit institution-specific requirements.</string>
+    <string name="placeholder_title_sms_module">SMS Module Integration</string>
+    <string name="placeholder_desc_sms_module">Single alerts for individuals and group alerts by batch/branch for announcements and attendance warnings.</string>
+    <string name="placeholder_title_student_categories">Student Categories</string>
+    <string name="placeholder_desc_student_categories">Manage category buckets to support filtering and institution-defined student grouping.</string>
+    <string name="placeholder_title_graduation_facilities">Graduation Facilities</string>
+    <string name="placeholder_desc_graduation_facilities">Alumni-oriented subset access and post-graduation support facilities.</string>
+
+    <string name="feature_dashboard_home">Dashboard Home</string>
+    <string name="feature_keywords_dashboard_home">home main dashboard</string>
+    <string name="feature_settings">Settings</string>
+    <string name="feature_keywords_settings">language country currency timezone grading unique id</string>
+    <string name="feature_profile">Profile</string>
+    <string name="feature_keywords_profile">profile account user role</string>
+    <string name="feature_mark_attendance">Mark Attendance</string>
+    <string name="feature_keywords_mark_attendance">attendance mark present absent late remarks</string>
+    <string name="feature_attendance_reports">Attendance Reports</string>
+    <string name="feature_keywords_attendance_reports">attendance report daily monthly subject wise filter</string>
+    <string name="feature_examinations">Examinations</string>
+    <string name="feature_keywords_examinations">exam list create marks grades custom</string>
+    <string name="feature_create_exam">Create Exam</string>
+    <string name="feature_keywords_create_exam">create exam grouped subjects evaluation gpa cce cwa</string>
+    <string name="feature_manage_courses">Manage Courses Batches Subjects</string>
+    <string name="feature_keywords_manage_courses">courses batches subjects electives transfers</string>
+    <string name="feature_custom_admission_forms">Custom Admission Forms</string>
+    <string name="feature_keywords_custom_admission_forms">admission forms customizable</string>
+    <string name="feature_sms_alerts">SMS Alerts</string>
+    <string name="feature_keywords_sms_alerts">sms group alert single alert notification</string>
+    <string name="feature_student_categories">Student Categories</string>
+    <string name="feature_keywords_student_categories">student category management</string>
+    <string name="feature_graduation_facilities">Graduation Facilities</string>
+    <string name="feature_keywords_graduation_facilities">graduation alumni facilities</string>
+
+    <string name="attendance_remarks_optional">Remarks (Optional)</string>
+    <string name="attendance_remarks_placeholder">Add notes for this attendance entry</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_general">General</string>
+    <string name="settings_section_system">System</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_country">Country</string>
+    <string name="settings_currency">Currency</string>
+    <string name="settings_timezone">Timezone</string>
+    <string name="settings_grading_system">Grading System</string>
+    <string name="settings_auto_id">Auto ID</string>
+    <string name="settings_auto_unique_id">Automatic Unique ID Generation</string>
+    <string name="settings_app_identifier">APP IDENTIFIER</string>
+    <string name="settings_select_language">Select Language</string>
+    <string name="settings_select_country">Select Country</string>
+    <string name="settings_select_currency">Select Currency</string>
+    <string name="settings_select_timezone">Select Timezone</string>
+    <string name="settings_select_grading_system">Select Grading System</string>
+    <string name="settings_enabled">Enabled</string>
+    <string name="settings_disabled">Disabled</string>
+    <string name="settings_app_version">App Version</string>
+
+    <string name="language_english">English</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_punjabi">Punjabi</string>
+
+    <string name="batch">Batch</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="subject">Subject</string>
+    <string name="str_report_date">Report Date</string>
+    <string name="date">Date</string>
+    <string name="str_all_present">All Present</string>
+    <string name="str_all_absent">All Absent</string>
+    <string name="str_exam_name">e.g. Mid-Term: Data Structures</string>
+    <string name="str_name_is_required">Name is required</string>
+    <string name="str_exam_date">Exam Date</string>
+    <string name="str_total_marks">Total Marks</string>
+    <string name="str_enter_a_valid_number">Enter a valid number</string>
+    <string name="str_exam_type">Exam Type</string>
+    <string name="str_exam_group_name">e.g. Mid-Term Exams 2026</string>
+    <string name="str_evaluation_method">Evaluation Method</string>
+    <string name="str_status">Status</string>
+    <string name="str_new_exam">New Exam</string>
+    <string name="str_all">All</string>
+    <string name="str_0">0</string>
+    <string name="str_generate_summary_report_view">Generate Summary Report View</string>
+
+</resources>

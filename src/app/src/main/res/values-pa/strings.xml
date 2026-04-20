@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">ਆਈਐਮਐਸ</string>
+    <string name="common_back">ਵਾਪਸ</string>
+    <string name="common_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="common_clear">ਸਾਫ਼ ਕਰੋ</string>
+    <string name="common_navigate">ਜਾਓ</string>
+    <string name="common_roll_with_value">ਰੋਲ: %1$s</string>
+
+    <string name="role_admin">ਐਡਮਿਨ</string>
+    <string name="role_teacher">ਅਧਿਆਪਕ</string>
+    <string name="role_student">ਵਿਦਿਆਰਥੀ</string>
+    <string name="role_parent">ਮਾਤਾ-ਪਿਤਾ</string>
+
+    <string name="login_title">ਆਈਐਮਐਸ ਲੌਗਇਨ</string>
+    <string name="login_username">ਯੂਜ਼ਰਨੇਮ</string>
+    <string name="login_password">ਪਾਸਵਰਡ</string>
+    <string name="login_demo_role">ਡੈਮੋ ਭੂਮਿਕਾ</string>
+    <string name="login_button">ਲੌਗਇਨ</string>
+
+    <string name="search_title">ਖੋਜ</string>
+    <string name="search_default_placeholder">ਵਿਦਿਆਰਥੀ, ਇਮਤਿਹਾਨ, ਵਿਸ਼ੇ ਖੋਜੋ...</string>
+    <string name="search_feature_placeholder">ਕਿਸੇ ਵੀ ਸਿਸਟਮ ਫੀਚਰ ਨੂੰ ਖੋਜੋ ਅਤੇ ਖੋਲ੍ਹੋ...</string>
+    <string name="search_tap_to_navigate">ਖੋਲ੍ਹਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="search_no_features_found">ਕੋਈ ਫੀਚਰ ਨਹੀਂ ਮਿਲਿਆ</string>
+    <string name="search_try_different_keyword">ਕੋਈ ਹੋਰ ਕੀਵਰਡ ਅਜ਼ਮਾਓ</string>
+
+    <string name="profile_title">ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="profile_edit">ਸੋਧੋ</string>
+    <string name="profile_default_avatar_initial">ਯ</string>
+    <string name="profile_default_user">ਯੂਜ਼ਰ</string>
+    <string name="profile_name">ਨਾਂ</string>
+    <string name="profile_full_name">ਪੂਰਾ ਨਾਂ</string>
+    <string name="profile_email">ਈਮੇਲ</string>
+    <string name="profile_phone">ਫ਼ੋਨ</string>
+    <string name="profile_department">ਵਿਭਾਗ</string>
+    <string name="profile_role">ਭੂਮਿਕਾ</string>
+    <string name="profile_not_set">ਸੈੱਟ ਨਹੀਂ</string>
+    <string name="profile_save_changes">ਬਦਲਾਅ ਸੰਭਾਲੋ</string>
+
+    <string name="dashboard_demo_role_switch">ਡੈਮੋ ਭੂਮਿਕਾ ਬਦਲੋ</string>
+    <string name="dashboard_role_switch_drawer">ਭੂਮਿਕਾ ਚੋਣ ਮੇਨੂ</string>
+    <string name="dashboard_good_morning">ਸਤ ਸ੍ਰੀ ਅਕਾਲ,</string>
+    <string name="dashboard_hi_with_name">ਹੈਲੋ, %1$s 👋</string>
+    <string name="dashboard_role_with_value">ਭੂਮਿਕਾ: %1$s</string>
+    <string name="dashboard_quick_stats">ਤੇਜ਼ ਅੰਕੜੇ</string>
+    <string name="dashboard_total_students">ਕੁੱਲ ਵਿਦਿਆਰਥੀ</string>
+    <string name="dashboard_across_all_batches">ਸਾਰੇ ਬੈਚਾਂ ਵਿੱਚ</string>
+    <string name="dashboard_attendance">ਹਾਜ਼ਰੀ</string>
+    <string name="dashboard_todays_average">ਅੱਜ ਦਾ ਔਸਤ</string>
+    <string name="dashboard_courses_batches">ਕੋਰਸ\nਬੈਚ</string>
+    <string name="dashboard_admission_forms">ਦਾਖਲਾ\nਫਾਰਮ</string>
+    <string name="dashboard_sms_alerts">ਐਸਐਮਐਸ\nਅਲਰਟ</string>
+    <string name="dashboard_student_categories">ਵਿਦਿਆਰਥੀ\nਸ਼੍ਰੇਣੀਆਂ</string>
+    <string name="dashboard_graduation_facilities">ਗ੍ਰੈਜੂਏਸ਼ਨ\nਸਹੂਲਤਾਂ</string>
+    <string name="dashboard_pending_exams">ਬਾਕੀ ਇਮਤਿਹਾਨ</string>
+    <string name="dashboard_upcoming">ਆਉਣ ਵਾਲੇ</string>
+    <string name="dashboard_batches">ਬੈਚ</string>
+    <string name="dashboard_active_batches">ਸਕ੍ਰਿਆ ਬੈਚ</string>
+    <string name="dashboard_quick_actions">ਤੇਜ਼ ਕਾਰਵਾਈਆਂ</string>
+    <string name="dashboard_mark_attendance">ਹਾਜ਼ਰੀ\nਲਗਾਓ</string>
+    <string name="dashboard_create_exam">ਇਮਤਿਹਾਨ\nਬਣਾਓ</string>
+    <string name="dashboard_view_results">ਨਤੀਜੇ\nਵੇਖੋ</string>
+    <string name="dashboard_recent_exams">ਹਾਲੀਆ ਇਮਤਿਹਾਨ</string>
+    <string name="dashboard_view_all">ਸਭ ਵੇਖੋ</string>
+    <string name="dashboard_subject_id_with_value">ਵਿਸ਼ਾ ਆਈਡੀ: %1$d</string>
+    <string name="dashboard_latest_news">ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ</string>
+
+    <string name="bottom_nav_home">ਹੋਮ</string>
+    <string name="bottom_nav_attendance">ਹਾਜ਼ਰੀ</string>
+    <string name="bottom_nav_exams">ਇਮਤਿਹਾਨ</string>
+    <string name="bottom_nav_profile">ਪ੍ਰੋਫਾਈਲ</string>
+
+    <string name="placeholder_feature_stub">ਫੀਚਰ ਪਲੇਸਹੋਲਡਰ</string>
+    <string name="placeholder_feature_stub_message">ਇਹ ਡੈਸ਼ਬੋਰਡ ਵਿੱਚ ਦਿਖਾਈ ਦੇਣ ਵਾਲਾ ਮਾਡਿਊਲ ਪਲੇਸਹੋਲਡਰ ਹੈ ਜਿਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪੂਰੇ ਫਲੋ ਨਾਲ ਵਧਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।</string>
+    <string name="placeholder_title_manage_courses">ਕੋਰਸ, ਬੈਚ, ਵਿਸ਼ੇ ਪ੍ਰਬੰਧਨ</string>
+    <string name="placeholder_desc_manage_courses">ਕੋਰਸ ਪ੍ਰਬੰਧਿਤ ਕਰੋ, ਬੈਚ ਸੈੱਟ ਕਰੋ, ਚੋਣੀ ਵਿਸ਼ੇ ਅਤੇ ਬੈਚ ਟ੍ਰਾਂਸਫਰ ਫਲੋ ਸੰਭਾਲੋ।</string>
+    <string name="placeholder_title_admission_forms">ਕਸਟਮ ਦਾਖਲਾ ਫਾਰਮ</string>
+    <string name="placeholder_desc_admission_forms">ਸੰਸਥਾ ਦੀ ਲੋੜ ਮੁਤਾਬਕ ਡਾਇਨਾਮਿਕ ਫੀਲਡ ਵਾਲੇ ਦਾਖਲਾ ਫਾਰਮ ਬਣਾਓ।</string>
+    <string name="placeholder_title_sms_module">ਐਸਐਮਐਸ ਮਾਡਿਊਲ ਇੰਟੀਗ੍ਰੇਸ਼ਨ</string>
+    <string name="placeholder_desc_sms_module">ਘੋਸ਼ਣਾਵਾਂ ਅਤੇ ਹਾਜ਼ਰੀ ਚੇਤਾਵਨੀਆਂ ਲਈ ਇਕੱਲੇ ਅਤੇ ਸਮੂਹ ਅਲਰਟ ਭੇਜੋ।</string>
+    <string name="placeholder_title_student_categories">ਵਿਦਿਆਰਥੀ ਸ਼੍ਰੇਣੀਆਂ</string>
+    <string name="placeholder_desc_student_categories">ਫਿਲਟਰਿੰਗ ਅਤੇ ਸੰਸਥਾ-ਆਧਾਰਿਤ ਗਰੁੱਪਿੰਗ ਲਈ ਸ਼੍ਰੇਣੀਆਂ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।</string>
+    <string name="placeholder_title_graduation_facilities">ਗ੍ਰੈਜੂਏਸ਼ਨ ਸਹੂਲਤਾਂ</string>
+    <string name="placeholder_desc_graduation_facilities">ਪੂਰਵ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਗ੍ਰੈਜੂਏਸ਼ਨ ਤੋਂ ਬਾਅਦ ਸਹਾਇਤਾ ਅਤੇ ਐਕਸੈਸ।</string>
+
+    <string name="feature_dashboard_home">ਡੈਸ਼ਬੋਰਡ ਹੋਮ</string>
+    <string name="feature_keywords_dashboard_home">ਹੋਮ ਮੁੱਖ ਡੈਸ਼ਬੋਰਡ</string>
+    <string name="feature_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="feature_keywords_settings">ਭਾਸ਼ਾ ਦੇਸ਼ ਮੁਦਰਾ ਟਾਈਮਜ਼ੋਨ ਗ੍ਰੇਡਿੰਗ ਯੂਨੀਕ ਆਈਡੀ</string>
+    <string name="feature_profile">ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="feature_keywords_profile">ਪ੍ਰੋਫਾਈਲ ਖਾਤਾ ਯੂਜ਼ਰ ਭੂਮਿਕਾ</string>
+    <string name="feature_mark_attendance">ਹਾਜ਼ਰੀ ਲਗਾਓ</string>
+    <string name="feature_keywords_mark_attendance">ਹਾਜ਼ਰੀ ਲਗਾਓ ਹਾਜ਼ਰ ਗੈਰਹਾਜ਼ਰ ਦੇਰ ਟਿੱਪਣੀ</string>
+    <string name="feature_attendance_reports">ਹਾਜ਼ਰੀ ਰਿਪੋਰਟਾਂ</string>
+    <string name="feature_keywords_attendance_reports">ਹਾਜ਼ਰੀ ਰਿਪੋਰਟ ਦੈਨਿਕ ਮਾਸਿਕ ਵਿਸ਼ਾ ਫਿਲਟਰ</string>
+    <string name="feature_examinations">ਇਮਤਿਹਾਨ</string>
+    <string name="feature_keywords_examinations">ਇਮਤਿਹਾਨ ਲਿਸਟ ਬਣਾਓ ਅੰਕ ਗਰੇਡ ਕਸਟਮ</string>
+    <string name="feature_create_exam">ਇਮਤਿਹਾਨ ਬਣਾਓ</string>
+    <string name="feature_keywords_create_exam">ਇਮਤਿਹਾਨ ਬਣਾਓ ਗਰੁੱਪ ਵਿਸ਼ੇ ਮੁਲਾਂਕਣ ਜੀਪੀਏ ਸੀਸੀਈ ਸੀਡਬਲਯੂਏ</string>
+    <string name="feature_manage_courses">ਕੋਰਸ ਬੈਚ ਵਿਸ਼ੇ ਪ੍ਰਬੰਧਨ</string>
+    <string name="feature_keywords_manage_courses">ਕੋਰਸ ਬੈਚ ਵਿਸ਼ੇ ਚੋਣੀ ਟ੍ਰਾਂਸਫਰ</string>
+    <string name="feature_custom_admission_forms">ਕਸਟਮ ਦਾਖਲਾ ਫਾਰਮ</string>
+    <string name="feature_keywords_custom_admission_forms">ਦਾਖਲਾ ਫਾਰਮ ਕਸਟਮਾਈਜ਼</string>
+    <string name="feature_sms_alerts">ਐਸਐਮਐਸ ਅਲਰਟ</string>
+    <string name="feature_keywords_sms_alerts">ਐਸਐਮਐਸ ਸਮੂਹ ਅਲਰਟ ਇਕੱਲਾ ਅਲਰਟ ਨੋਟੀਫਿਕੇਸ਼ਨ</string>
+    <string name="feature_student_categories">ਵਿਦਿਆਰਥੀ ਸ਼੍ਰੇਣੀਆਂ</string>
+    <string name="feature_keywords_student_categories">ਵਿਦਿਆਰਥੀ ਸ਼੍ਰੇਣੀ ਪ੍ਰਬੰਧਨ</string>
+    <string name="feature_graduation_facilities">ਗ੍ਰੈਜੂਏਸ਼ਨ ਸਹੂਲਤਾਂ</string>
+    <string name="feature_keywords_graduation_facilities">ਗ੍ਰੈਜੂਏਸ਼ਨ ਅਲੂਮਨੀ ਸਹੂਲਤਾਂ</string>
+
+    <string name="attendance_remarks_optional">ਟਿੱਪਣੀ (ਵਿਕਲਪਿਕ)</string>
+    <string name="attendance_remarks_placeholder">ਇਸ ਹਾਜ਼ਰੀ ਐਂਟਰੀ ਲਈ ਨੋਟ ਸ਼ਾਮਲ ਕਰੋ</string>
+
+    <string name="settings_title">ਸੈਟਿੰਗਾਂ</string>
+    <string name="settings_section_general">ਜਨਰਲ</string>
+    <string name="settings_section_system">ਸਿਸਟਮ</string>
+    <string name="settings_language">ਭਾਸ਼ਾ</string>
+    <string name="settings_country">ਦੇਸ਼</string>
+    <string name="settings_currency">ਮੁਦਰਾ</string>
+    <string name="settings_timezone">ਸਮਾਂ ਖੇਤਰ</string>
+    <string name="settings_grading_system">ਗ੍ਰੇਡਿੰਗ ਸਿਸਟਮ</string>
+    <string name="settings_auto_id">ਆਟੋ ਆਈਡੀ</string>
+    <string name="settings_auto_unique_id">ਆਟੋਮੈਟਿਕ ਯੂਨੀਕ ਆਈਡੀ ਜਨਰੇਸ਼ਨ</string>
+    <string name="settings_app_identifier">ਐਪ ਪਛਾਣਕਰਤਾ</string>
+    <string name="settings_select_language">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="settings_select_country">ਦੇਸ਼ ਚੁਣੋ</string>
+    <string name="settings_select_currency">ਮੁਦਰਾ ਚੁਣੋ</string>
+    <string name="settings_select_timezone">ਸਮਾਂ ਖੇਤਰ ਚੁਣੋ</string>
+    <string name="settings_select_grading_system">ਗ੍ਰੇਡਿੰਗ ਸਿਸਟਮ ਚੁਣੋ</string>
+    <string name="settings_enabled">ਚਾਲੂ</string>
+    <string name="settings_disabled">ਬੰਦ</string>
+    <string name="settings_app_version">ਐਪ ਵਰਜਨ</string>
+
+    <string name="language_english">ਅੰਗਰੇਜ਼ੀ</string>
+    <string name="language_hindi">ਹਿੰਦੀ</string>
+    <string name="language_punjabi">ਪੰਜਾਬੀ</string>
+
+    <string name="batch">ਬੈਚ</string>
+    <string name="str_ok">ਠੀਕ ਹੈ</string>
+    <string name="str_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="subject">ਵਿਸ਼ਾ</string>
+    <string name="str_report_date">ਰਿਪੋਰਟ ਦੀ ਮਿਤੀ</string>
+    <string name="date">ਮਿਤੀ</string>
+    <string name="str_all_present">ਸਾਰੇ ਹਾਜ਼ਰ</string>
+    <string name="str_all_absent">ਸਾਰੇ ਗੈਰ-ਹਾਜ਼ਰ</string>
+    <string name="str_exam_name">ਉਦਾਹਰਨ ਲਈ ਮਿਡ-ਟਰਮ: ਡੇਟਾ ਸਟ੍ਰਕਚਰਸ</string>
+    <string name="str_name_is_required">ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ</string>
+    <string name="str_exam_date">ਪ੍ਰੀਖਿਆ ਦੀ ਮਿਤੀ</string>
+    <string name="str_total_marks">ਕੁੱਲ ਅੰਕ</string>
+    <string name="str_enter_a_valid_number">ਇੱਕ ਵੈਧ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+    <string name="str_exam_type">ਪ੍ਰੀਖਿਆ ਦੀ ਕਿਸਮ</string>
+    <string name="str_exam_group_name">ਉਦਾਹਰਨ ਲਈ ਮਿਡ-ਟਰਮ ਪ੍ਰੀਖਿਆਵਾਂ 2026</string>
+    <string name="str_evaluation_method">ਮੁਲਾਂਕਣ ਵਿਧੀ</string>
+    <string name="str_status">ਸਥਿਤੀ</string>
+    <string name="str_new_exam">ਨਵੀਂ ਪ੍ਰੀਖਿਆ</string>
+    <string name="str_all">ਸਾਰੇ</string>
+    <string name="str_0">0</string>
+    <string name="str_generate_summary_report_view">ਸੰਖੇਪ ਰਿਪੋਰਟ ਦ੍ਰਿਸ਼ ਤਿਆਰ ਕਰੋ</string>
+
+</resources>
